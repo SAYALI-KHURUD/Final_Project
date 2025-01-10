@@ -1,0 +1,17 @@
+h2{
+    color:rgb(233, 238, 243);
+}
+.slider{
+    width:100%;
+    height:450px;
+    background-color:rgb(255, 255, 255);
+}
+
+body {
+    background-image: url(../../assets/resto.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 1px;
+    height: 110vh;
+}

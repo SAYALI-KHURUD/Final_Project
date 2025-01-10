@@ -1,0 +1,25 @@
+.container {
+    width: 500px;
+    margin-top: 20px;
+    margin: 5% auto;
+    border: 1px solid #120101;
+    border-radius: 10px;
+    padding: 40px;
+    backdrop-filter: blur(10px);
+    
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+body {
+    background-image: url(../../assets/resto.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 1px;
+    height: 110vh;
+}
+
+input.form-control {
+    border-radius: 5px;
+    padding: 10px;
+}

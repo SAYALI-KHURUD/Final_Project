@@ -1,0 +1,11 @@
+.welcome-container {
+    text-align: center;
+    padding: 200px ;
+    background-color: #f4f4f9;
+    background-image: url(../../assets/resto.jpg);
+    background-size: cover;
+   background-position: center;
+   height: 100vh;
+   margin-top: 0; 
+
+  }
